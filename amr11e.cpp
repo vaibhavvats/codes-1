@@ -5,6 +5,7 @@ using namespace std;
 #define LEN 2664
 
 int main(){
+cout<<"Hello\n";	
   int t, n;
 	int sq = (int)(sqrt(LEN));
   auto std::vector<bool> sieve(LEN, true);
